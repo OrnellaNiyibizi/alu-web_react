@@ -19,5 +19,4 @@ describe("Course List row", () => {
         screen.getByText("First");
         screen.getByText("Second"); 
     })
-
 })
